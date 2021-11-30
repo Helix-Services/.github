@@ -16,3 +16,6 @@
 
 - We provide open source tools that everyone can use.
 
+# Support
+
+For support, please join our discord server https://discord.gg/HWBk7N6yKZ
