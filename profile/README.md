@@ -18,4 +18,4 @@
 
 # Support
 
-For support, please join our discord server https://discord.gg/HWBk7N6yKZ
+For support on any of our projects join our discord server https://discord.gg/HWBk7N6yKZ
