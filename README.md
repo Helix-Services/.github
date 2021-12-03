@@ -1,6 +1,7 @@
 
 ![Logo](https://i.imgur.com/KEPSxki.png)
 
+![Helix-Tools github stats](https://github-readme-stats.vercel.app/api?username=Helix-Tools)
 
 ## 🔨 Contributors
 
