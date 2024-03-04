@@ -5,7 +5,6 @@
 ## 🔨 Contributors
 
 - [@pinguinooo](https://www.github.com/pinguinooo)
-- [@attic0001](https://www.github.com/attic0001)
 
 
 
