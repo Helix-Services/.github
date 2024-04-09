@@ -1,5 +1,5 @@
 
-![Logo]([Imgur](https://i.imgur.com/lKKfqD0.png))
+![Logo](https://i.imgur.com/lKKfqD0.png))
 
 
 ## 🔨 Contributors
