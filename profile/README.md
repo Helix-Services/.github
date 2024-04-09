@@ -1,10 +1,11 @@
 
-![Logo](https://i.imgur.com/KEPSxki.png)
+![Logo]([https://i.imgur.com/KEPSxki.png](https://i.imgur.com/lKKfqD0.png))
 
 
 ## 🔨 Contributors
 
 - [@pinguinooo](https://www.github.com/pinguinooo)
+- [@attic0001](https://www.github.com/attic0001)
 
 
 
