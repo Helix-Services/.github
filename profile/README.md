@@ -15,7 +15,7 @@
 
 ## 📂 About Us
 
-- We provide open source tools that everyone can use.
+- We provide open source tools and services that are available to everyone.
 
 # Support
 
