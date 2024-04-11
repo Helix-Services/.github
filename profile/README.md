@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/lKKfqD0.png?raw=true" alt="Helix Services"/>
+  <img src="https://i.imgur.com/4l6wDuG.png?raw=true" alt="Helix Services"/>
 </p>
-
 
 
 ## 🔨 Contributors
